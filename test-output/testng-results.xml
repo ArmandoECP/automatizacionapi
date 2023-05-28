@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T20:52:07 PET" name="Default suite" finished-at="2023-05-26T20:52:10 PET" duration-ms="3486">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T20:52:07 PET" name="Default test" finished-at="2023-05-26T20:52:10 PET" duration-ms="3486">
+      <class name="automatizacionapi.flujoprueba">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automatizacionapi.flujoprueba@194bcebf]" started-at="2023-05-26T20:52:07 PET" name="setup" finished-at="2023-05-26T20:52:07 PET" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="creaUser()[pri:1, instance:automatizacionapi.flujoprueba@194bcebf]" started-at="2023-05-26T20:52:07 PET" name="creaUser" finished-at="2023-05-26T20:52:08 PET" duration-ms="1490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creaUser -->
+        <test-method signature="consultaUser()[pri:2, instance:automatizacionapi.flujoprueba@194bcebf]" started-at="2023-05-26T20:52:08 PET" name="consultaUser" finished-at="2023-05-26T20:52:09 PET" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- consultaUser -->
+        <test-method signature="actualizaPUT()[pri:3, instance:automatizacionapi.flujoprueba@194bcebf]" started-at="2023-05-26T20:52:09 PET" name="actualizaPUT" finished-at="2023-05-26T20:52:09 PET" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actualizaPUT -->
+        <test-method signature="actualizaPATCH()[pri:4, instance:automatizacionapi.flujoprueba@194bcebf]" started-at="2023-05-26T20:52:09 PET" name="actualizaPATCH" finished-at="2023-05-26T20:52:10 PET" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actualizaPATCH -->
+        <test-method signature="ejecutaDelete()[pri:5, instance:automatizacionapi.flujoprueba@194bcebf]" started-at="2023-05-26T20:52:10 PET" name="ejecutaDelete" finished-at="2023-05-26T20:52:10 PET" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ejecutaDelete -->
+        <test-method signature="consultaUserdeleteado()[pri:6, instance:automatizacionapi.flujoprueba@194bcebf]" started-at="2023-05-26T20:52:10 PET" name="consultaUserdeleteado" finished-at="2023-05-26T20:52:10 PET" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- consultaUserdeleteado -->
+      </class> <!-- automatizacionapi.flujoprueba -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
